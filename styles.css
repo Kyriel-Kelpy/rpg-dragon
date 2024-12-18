@@ -10,6 +10,7 @@ body{
     background-size: cover;       /* L'image couvre toute la zone */
     background-position: center;  /* Centre l'image */
     background-repeat: no-repeat; /* Évite la répétition de l'image */
+    font-family: 'Cinzel', serif; /* Applique Cinzel comme police principale */
 }
   
 
@@ -62,4 +63,6 @@ button{
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 20px;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
 }
