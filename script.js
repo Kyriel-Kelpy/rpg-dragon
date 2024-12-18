@@ -28,7 +28,7 @@ const weapons = [
     },
 
     {
-        name: "Épée eb fer",
+        name: "Épée en fer",
         power: 50
     },
 
